@@ -12,8 +12,5 @@ Clone the repository or download the playlist_downloader.py file.
 Open your command line interface (CLI) and navigate to the directory containing the script.
 
 Run the script using Python:
-
-bash
-Copy code
 python playlist_downloader.py
 When prompted, enter the URL of the YouTube playlist you wish to download and convert.
