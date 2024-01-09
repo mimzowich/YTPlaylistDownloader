@@ -1,1 +1,2 @@
 # YTPlaylistDownloader
+This application allows users to download audio from videos in a specified YouTube playlist and convert them to MP3 format. It's designed to be simple and user-friendly, operating through the command line. The project showcases the use of pytube for downloading media from YouTube and moviepy for converting audio files.I made this so that I could download my youtube music playlist and keep it offline.
